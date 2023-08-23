@@ -1,0 +1,1 @@
+console.log('top document', window.top.document.querySelector('header'));
